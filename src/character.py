@@ -37,5 +37,5 @@ class Character(BaseXmlModel, tag="character"):
     level: PositiveInt = element()
     appearance: Appearance = element()
     abilities: Stats = element(tag="abilities")
-    skills: list[Skill] = wrapped("skills", wrapped("a", element()))
+    skills: list[Skill] = wrapped("skills", element())
     #equipment: list[Item] = element()
