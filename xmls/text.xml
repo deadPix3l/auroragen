@@ -1,0 +1,49 @@
+<character version="1.0.3" preview="false">
+  <name>Breena Schleppen</name>
+  <race>Forest Gnome</race>
+  <class>Wizard</class>
+  <archetype>
+  </archetype>
+  <background>Sage</background>
+  <level>4</level>
+  <appearance>
+			<portrait>C:\Users\kykel\OneDrive\Documents\5e Character Builder\portraits\gnome forest gnome breena and pugsly.png</portrait>
+			<age>53</age>
+			<height>2'10"</height>
+			<weight>35 lb.</weight>
+			<eyes>Blue</eyes>
+			<skin>Pale</skin>
+			<hair>Purple</hair>
+		</appearance>
+	<abilities>
+				<strength>10</strength>
+				<dexterity>10</dexterity>
+				<constitution>10</constitution>
+				<intelligence>10</intelligence>
+				<wisdom>10</wisdom>
+				<charisma>10</charisma>
+  </abilities>
+  <skills>
+    <a>
+				<skill name="Acrobatics">0</skill>
+				<skill name="Animal Handling">0</skill>
+				<skill name="Arcana">0</skill>
+				<skill name="Athletics">0</skill>
+				<skill name="Deception">0</skill>
+				<skill name="History">0</skill>
+				<skill name="Insight">0</skill>
+				<skill name="Intimidation">0</skill>
+				<skill name="Investigation">0</skill>
+				<skill name="Medicine">0</skill>
+				<skill name="Nature">0</skill>
+				<skill name="Perception">0</skill>
+				<skill name="Performance">0</skill>
+				<skill name="Persuasion">0</skill>
+				<skill name="Religion">0</skill>
+				<skill name="Sleight of Hand">0</skill>
+				<skill name="Stealth">0</skill>
+				<skill name="Survival">0</skill>
+      </a>
+  </skills>
+</character>
+
